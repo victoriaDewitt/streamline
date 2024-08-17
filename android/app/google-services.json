@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "852073803334",
+    "project_id": "streamline-f0ce9",
+    "storage_bucket": "streamline-f0ce9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852073803334:android:69d37150dbf5ed0140a447",
+        "android_client_info": {
+          "package_name": "com.example.streamline"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRb9DJVprhGr3CWcRx1HpYRlCSduquQUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852073803334:android:2dc860bf2882cde940a447",
+        "android_client_info": {
+          "package_name": "com.mycompany.streamline"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRb9DJVprhGr3CWcRx1HpYRlCSduquQUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
